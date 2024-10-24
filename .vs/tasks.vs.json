@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-tailwind.config",
+      "appliesTo": "client/tailwind.config.js",
+      "type": "launch"
+    }
+  ]
+}
